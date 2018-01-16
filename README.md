@@ -10,6 +10,7 @@ La salida del programá será la impresión de la listas (tal como la ingresó e
 siguiendo el criterio de Qué lista tuvo una sumatoria mayor.
 
 Para resolver la problematica, se implementarán 5 funciones:
+
     intsumArray(int* arr, intn); //Recibe un arreglo y su tamaño. Devuelve el resultado de sumar todos sus elementos
     
     voidprintArray(int* arr, intn); //Fecibe un arreglo y su tamaño, imprime los valores del arreglo uno por uno, 
